@@ -3,5 +3,5 @@
 	"singleQuote": true,
 	"trailingComma": "none",
 	"printWidth": 100,
-  "plugins": ["eslint-plugin-svelte3"]
+  "plugins": ["prettier-plugin-svelte"]
 }
